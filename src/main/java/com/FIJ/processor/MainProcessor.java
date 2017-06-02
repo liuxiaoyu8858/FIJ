@@ -10,7 +10,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  * @Author liuxiaoyu
  * @Date 17/5/31.
  */
-public class MainProcessor implements AbstractProcessor {
+public class MainProcessor extends AbstractProcessor {
 
     private static final Logger logger = LoggerFactory.getLogger(MainProcessor.class);
 

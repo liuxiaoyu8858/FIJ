@@ -2,7 +2,6 @@ package com.FIJ.processor;
 
 import com.FIJ.processor.signal.ProcFileSemaphore;
 import com.FIJ.processor.signal.ProcSemaphore;
-import com.FIJ.processor.signal.ProcFileSemaphore;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
